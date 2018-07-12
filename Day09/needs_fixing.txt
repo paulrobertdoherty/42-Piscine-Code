@@ -1,0 +1,6 @@
+Not finished:
+-ex02
+-ex09
+-ex12
+-ex14
+-ex15
